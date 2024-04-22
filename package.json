@@ -1,0 +1,25 @@
+{
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "express-form-data": "^2.0.23",
+    "init": "^0.1.2",
+    "mysql2": "^3.9.5",
+    "nodemon": "^3.1.0",
+    "sequelize": "^6.37.3"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
+  },
+  "name": "sequelize_datamanagement_task",
+  "version": "1.0.0",
+  "description": ""
+}
